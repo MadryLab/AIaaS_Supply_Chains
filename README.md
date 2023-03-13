@@ -2,7 +2,13 @@
 
 ## Dataset and overview 
 
-This dataset can be accessed via Google sheets, or simply by downloading CSV file included in this git repo. Largely sourced from existing datasets built by VC efforts to track the AIaaS stack, this dataset categorize companies by their contribution to the learning process of ML-powered tools. Each dataset was manually filtered for dead or acquired companies as well as duplicates. After this filtering process, 2,018 companies remained. 
+This dataset can be accessed via Google sheets, or simply by downloading CSV file included in this git repo. Largely sourced from existing datasets built by VC efforts to track the AIaaS stack, this dataset categorize companies by their contribution to the learning process of ML-powered tools. Each dataset was manually filtered for dead or acquired companies as well as duplicates. 
+
+## Example Configurations
+
+There are many possible configurations for AIaaS Pipelines. Using our dataset, we can understand some of the relationships presented in a particular supply chain. We highlight a few interesting examples below!
+
+![Group 23](https://user-images.githubusercontent.com/16675936/224842622-c3ab6c02-5a3b-4673-a557-a2c5ae43c75d.png)
 
 ### Dateset Sources
 
@@ -29,14 +35,5 @@ They include Infrastructure services** like cloud servers and data lakes, **Auto
 
 <img width="812" alt="Screenshot 2023-03-08 at 5 11 29 PM" src="https://user-images.githubusercontent.com/16675936/224425674-9e426cb6-df9a-40a3-a901-10cad873152c.png">
 
-## Example Configurations
-
-There are many possible configurations for AIaaS Pipelines. Here are a few interesting examples.
-
-![screenshot_2023-03-08_at_3 56 04_pm_720](https://user-images.githubusercontent.com/16675936/224424790-809cb0d1-d74c-44c6-ac0e-31b9698a01dd.png)
 
 
-![screenshot_2023-03-08_at_3 25 05_pm_720](https://user-images.githubusercontent.com/16675936/224424542-1ba290c0-655f-4fcc-b3ac-6842ea8ddbaf.png)
-![screenshot_2023-03-08_at_3 52 04_pm_720](https://user-images.githubusercontent.com/16675936/224424547-db0834c4-dce8-4b48-89da-642b0f1cad9d.png)
-![screenshot_2023-03-08_at_3 43 37_pm_720](https://user-images.githubusercontent.com/16675936/224424528-efd6da1c-6dda-42ba-ac89-4a46c7594bd0.png)
-![screenshot_2023-03-08_at_3 37 53_pm_720](https://user-images.githubusercontent.com/16675936/224424945-c2a00ad7-e6bc-44f0-8a3d-8946998e944b.png)
