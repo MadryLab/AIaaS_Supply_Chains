@@ -31,7 +31,7 @@ There are many possible configurations for AIaaS Pipelines. Using our dataset, w
 
 There is a wide range of ML development options stemming from the increasing ML accessibility provided by foundation models and the rising trend of AI-as-a-Service (AIaaS).Modeled off the similarly structured Software-as-Service (SaaS), AIaaS was a natural progression for technology so easily associated with traditional software. The AIaaS stack consists of products and services to support every aspect of the ML-powered tool development process.
 
-They include Infrastructure services** like cloud servers and data lakes, **AutoMLOps services** like automated feature identification and parameter tuning, **AutoML services** that guide companies through ML model development, and pre-packaged **ML-powered tools**, like a ready-made loan approval model.
+They include **Infrastructure services** like cloud servers and data lakes, **AutoMLOps services** like automated feature identification and parameter tuning, **AutoML services** that guide companies through ML model development, and pre-packaged **ML-powered tools**, like a ready-made loan approval model.
 
 <img width="812" alt="Screenshot 2023-03-08 at 5 11 29 PM" src="https://user-images.githubusercontent.com/16675936/224425674-9e426cb6-df9a-40a3-a901-10cad873152c.png">
 
