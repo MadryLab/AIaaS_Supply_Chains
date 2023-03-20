@@ -12,11 +12,13 @@ There are many possible configurations for AIaaS Pipelines. Using our dataset, w
 
 ## Background
 
-There is a wide range of ML development options stemming from the increasing ML accessibility provided by foundation models and the rising trend of AI-as-a-Service (AIaaS). Modeled off the similarly structured Software-as-Service (SaaS), AIaaS was a natural progression for technology so easily associated with traditional software. The AIaaS stack consists of products and services to support every aspect of the ML-powered tool development process.
+There is a wide range of ML development options stemming from the increasing ML accessibility provided by foundation models and the rising trend of AI-as-a-Service (AIaaS). Modeled off the similarly structured Software-as-Service (SaaS), AIaaS was a natural progression for technology so easily associated with traditional software. The AIaaS stack consists of products and services to support every aspect of the ML-powered tool development process (Lins et al., [2021](https://doi.org/10.1007/s12599-021-00708-w))
 
-They include **Infrastructure services** like cloud servers and data lakes, **AutoMLOps services** like automated feature identification and parameter tuning, **AutoML services** that guide companies through ML model development, and pre-packaged **ML-powered tools**, like a ready-made loan approval model (Lins et al., [2021](https://doi.org/10.1007/s12599-021-00708-w)).
+<img width="1322" alt="Screenshot 2023-03-20 at 2 36 06 PM" src="https://user-images.githubusercontent.com/99421791/226434981-d11861d5-1084-42d7-b595-ce974110b74c.png">
 
-<img width="812" alt="Screenshot 2023-03-08 at 5 11 29 PM" src="https://user-images.githubusercontent.com/16675936/224425674-9e426cb6-df9a-40a3-a901-10cad873152c.png">
+
+
+
 
 ## Navigation
 The dataset includes AIaaS stack positions, categories, subcategories, industry-specific labels, company descriptions, and URLs. 
@@ -28,7 +30,6 @@ The dataset includes AIaaS stack positions, categories, subcategories, industry-
 2. **Category:** Further breakdown of the company's position in the supply chain. Provides insight into the company's products and services.
 
 3. **Industry Labels:** Assigned to companies tailored exclusively to a non-AI industry (e.g., Healthcare, Financial, Legal). Indicates likely fine-tuning of upstream models for curated tasks.
-
 
 4. **Subcategory:** Additional details or keywords related to the company's offerings. Useful for quickly differentiating companies in similar roles within the ecosystem
 
@@ -44,7 +45,7 @@ The dataset includes AIaaS stack positions, categories, subcategories, industry-
   - Scale VP claims the most comprehensive generative AI market map and upkeeps financial and descriptive details on a little over 200 companies in the generative AI landscape. This dataset was selected for its focus on relatively small generative AI-powered enterprises: a group almost entirely dependent on fine-tuned foundation models. As a result, its contributing companies are almost all ML-powered tools.
 
 - **The Conversational AI Ecosystem** (Zubair Talib, [2021](https://docs.google.com/spreadsheets/d/1Ar40U3jI5cfRVz3DfiVpdRMfOKAPd85NGgQvMeAJ_rQ/edit#gid=1679115793)).
-  - Focused specifically on conversational AI, this dataset of ~150 companies provides a broad view of the types of conversational AI products and development tools available in 2021. It was selected for its narrowed focus: a more focused group of companies using generative AI that largely developed their products using LLMs. Due to its inclusion of companies that support conversational AI development, it contributes companies in the AutoMLOps and AutoML level of the AIaaS stack as well as ML-powered tools.
+  - Focused specifically on conversational AI, this dataset of ~150 companies provides a broad view of the types of conversational AI products and development tools available in 2021. It was selected for its narrowed focus: a more focused group of companies using generative AI that largely developed their products using LLMs. Due to its inclusion of companies that support conversational AI development, it contributes companies in the MLOps and AutoML level of the AIaaS stack as well as ML-powered tools.
 
 - **Startups** (@builtwgenai, [2022](https://airtable.com/appTJ9kD2LEld3W1F/tbla2oe5olD5uWpRD/viwgycsJWVlQAmwrV?blocks=hide)). 
   - A community (now called Homebrew AI) sourced dataset of ~150 companies developed by members passionate about the generative AI landscape. Also selected for its focus on generative AI, this dataset had consistent overlap with The Generative AI Index. Its contributing companies are also almost all ML-powered tools.
