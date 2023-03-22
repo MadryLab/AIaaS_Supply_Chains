@@ -14,8 +14,9 @@ There are many possible configurations for AIaaS Pipelines. Using our dataset, w
 
 There is a wide range of ML development options stemming from the increasing ML accessibility provided by foundation models and the rising trend of AI-as-a-Service (AIaaS). Modeled off the similarly structured Software-as-Service (SaaS), AIaaS was a natural progression for technology so easily associated with traditional software. The AIaaS stack consists of products and services to support every aspect of the ML-powered tool development process (Lins et al., [2021](https://doi.org/10.1007/s12599-021-00708-w))
 
-<img width="1322" alt="Screenshot 2023-03-20 at 2 36 06 PM" src="https://user-images.githubusercontent.com/99421791/226434981-d11861d5-1084-42d7-b595-ce974110b74c.png">
 
+
+<img width="1558" alt="Screenshot 2023-03-22 at 6 23 51 PM" src="https://user-images.githubusercontent.com/16675936/227051950-81d2dd8e-382a-4c92-a670-7bd16bfd5ad4.png">
 
 
 
