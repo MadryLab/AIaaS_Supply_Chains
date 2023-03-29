@@ -2,7 +2,7 @@
 
 ## Dataset and overview 
 
-This dataset provides a comprehensive view of AI industry companies and their relative positions and influence in the development of AIaaS. It visualizes a dispersed learning process of ML models across third parties. It can be accessed via Google sheets, or simply by downloading CSV file included in this git repo. Largely sourced from existing datasets built by VC efforts to track the AIaaS stack, this dataset categorize companies by their contribution to the learning process of ML-powered tools. Each dataset was manually filtered for dead or acquired companies as well as duplicates. 
+This dataset provides a comprehensive view of AI industry companies and their relative positions and influence in the development of AIaaS. It visualizes a dispersed learning process of ML models across third parties. It can be accessed via [Google sheets](https://docs.google.com/spreadsheets/d/1qXyGQEz300LXmOexZz6Mj8WsR6yJ0K4hpYuUhM4fjJI/edit?usp=sharing), or simply by downloading the CSV file included in this git repo. Largely sourced from existing datasets built by VC efforts to track the AIaaS stack, this dataset categorize companies by their contribution to the learning process of ML-powered tools. Each dataset was manually filtered for dead or acquired companies as well as duplicates. 
 
 ## Example Configurations
 
