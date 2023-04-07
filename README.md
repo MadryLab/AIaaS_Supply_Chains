@@ -53,6 +53,13 @@ The dataset includes AIaaS stack positions, categories, subcategories, industry-
 
 - **The 2022 AI 50** (Forbes, [2022](https://www.forbes.com/lists/ai50/?sh=79816f86290f)). 
   - One of many “companies to watch” lists developed by Forbes, this dataset was selected despite its limited size for its thorough vetting process and relatively limited overlap with the other datasets. It is the only dataset other than FirstMark’s MAD Landscapes that collects companies from across the AIaaS stack rather than exclusively from companies applying generative AI.
+  
+- **Ecosystem Graphs: The Social Footprint of Foundation Models** (Rishi Bommasani, Dilara
+                  Soylu, Thomas I.
+                  Liao, Kathleen A.
+                  Creel,  Percy
+                  Liang, [2023](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=home)). 
+  - Built by members of the Stanford Center for Research on Foundation Models, this ecosystem graph "documents the foundation models ecosystem, namely both the assets (datasets, models, and applications) and their relationships". It was selected because its in depth study of existing foundation models offers the best available look at the highest upstream aspects of the AI ecosystem today.
 
 
 
