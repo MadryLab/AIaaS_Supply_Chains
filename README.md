@@ -2,7 +2,7 @@
 
 ## Dataset and overview 
 
-This dataset provides a comprehensive view of AI industry companies and their relative positions and influence in the development of AIaaS. It visualizes a dispersed learning process of ML models across third parties. It can be accessed via [Google sheets](https://docs.google.com/spreadsheets/d/1qXyGQEz300LXmOexZz6Mj8WsR6yJ0K4hpYuUhM4fjJI/edit?usp=sharing), or simply by downloading the CSV file included in this git repo. Largely sourced from existing datasets built by VC efforts to track the AIaaS stack, this dataset categorize companies by their contribution to the learning process of ML-powered tools. Each dataset was manually filtered for dead or acquired companies as well as duplicates. 
+This dataset provides a comprehensive view of AI industry companies and their relative positions and influence in the development of AIaaS. It visualizes a dispersed learning process of ML models across third parties. It can be accessed via [Google sheets](https://docs.google.com/spreadsheets/d/1qXyGQEz300LXmOexZz6Mj8WsR6yJ0K4hpYuUhM4fjJI/edit?usp=sharing), or simply by downloading the CSV file included in this git repo. Largely sourced from existing datasets built by VC efforts to track the AIaaS stack, this dataset categorize companies by their contribution to the learning process of ML-powered tools. 
 
 ## Example Configurations
 
@@ -38,6 +38,8 @@ The dataset includes AIaaS stack positions, categories, subcategories, industry-
 
 
 ## Dateset Sources
+
+Each dataset was manually filtered for dead or acquired companies as well as duplicates. 
 
 - **The 2021 and 2023 Machine Learning, AI and Data (MAD) Landscape Datasets**. (FirstMark, [2021](https://airtable.com/shrXVKG1JI9EHyoFE/tbl8oBlGhRFr9iBBY)), (FirstMark, [2023](https://mad.firstmarkcap.com/card))
   - Developed by Matt Turk and John Wu for the venture capitalist firm FirstMark, this dataset seeks to provide a macro view of the ML, AI, and data science landscape and analyze trends in the industry’s development. Its accompanying report particularly notes a rise in AutoML. As the most thorough open-source map of the AIaaS stack to my knowledge, companies included in the FirstMark MAD Landscape make up about 75% of the compiled dataset. It is the main contributor of companies from across the AIaaS stack, and includes hundreds of companies making up every level from infrastructure services to ML-powered tools.
